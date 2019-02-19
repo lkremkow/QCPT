@@ -16,16 +16,16 @@
 
 ## Installation
 
-   `git clone https://github.com/lkremkow/time-to-fix.git time-to-fix`
+   `git clone git@github.com:lkremkow/QCPT.git qcpt`
 
-   `cd time-to-fix/`
+   `cd qcpt/`
 
    `npm install`
 
 
 ## Re-Installation
 
-   `cd time-to-fix/`
+   `cd qcpt/`
 
    `git fetch --all`
 
@@ -36,7 +36,7 @@
 
 ## Source
 
-   https://github.com/lkremkow/time-to-fix.git
+   https://github.com/lkremkow/QCPT
 
 
 ## Usage
